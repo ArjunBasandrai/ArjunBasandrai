@@ -9,7 +9,7 @@
 - 🚀 I’m currently exploring Natural Language Processing
 - 🗻 I love birding and travel, and I blog about them at [Birding with Arjun](https://birdingwitharjun.com)
 
-## My stats
+## My Github stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api/?username=ArjunBasandrai&layout=compact&theme=dracula)
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunBasandrai&layout=compact&theme=dracula)
