@@ -5,7 +5,7 @@
 
 ## About me 
 
-- 🔭 I’m currently working on a [Chess Bot in C](https://github.com/ArjunBasandrai/c-chess-engine)
+- 🔭 I’m currently working on [Medivse](https://github.com/ArjunBasandrai/medvise)
 - 🚀 I’m currently exploring Natural Language Processing
 - 🗻 I love birding and travel, and I blog about them at [Birding with Arjun](https://birdingwitharjun.com)
 
