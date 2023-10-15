@@ -6,7 +6,7 @@
 ## About me 
 
 - 🔭 I’m currently working on [Medivse](https://github.com/ArjunBasandrai/medvise)
-- 🚀 I’m currently exploring Natural Language Processing
+- 🚀 I’m currently exploring MLOps
 - 🗻 I love birding and travel, and I blog about them at [Birding with Arjun](https://birdingwitharjun.com)
 
 ## My Github stats
