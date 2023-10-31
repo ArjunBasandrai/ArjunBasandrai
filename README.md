@@ -79,6 +79,9 @@
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="ps logo"  />
 </div>
 
+## Hacktoberfest 2023
+[![An image of @arjunbasandrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arjunbasandrai)](https://holopin.io/@arjunbasandrai)
+
 ## Socials
 
 <p align="center">
