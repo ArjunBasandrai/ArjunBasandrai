@@ -11,8 +11,8 @@
 
 ## My Github stats
 
-![My github stats](https://github-readme-stats.vercel.app/api/?username=ArjunBasandrai&layout=compact&theme=dracula)
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunBasandrai&layout=compact&theme=dracula)
+![My github stats](https://github-readme-stats.vercel.app/api/?username=ArjunBasandrai&layout=compact&theme=codeSTACKr)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunBasandrai&layout=compact&theme=codeSTACKr)
 
 ## My tech stack
 
