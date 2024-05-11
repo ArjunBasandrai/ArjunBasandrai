@@ -5,7 +5,7 @@
 
 ## About me 
 
-- 🔭 I’m currently working on [Shuffle Chess Engine](https://github.com/ArjunBasandrai/shuffle-chess-engine) and [Medvise](https://github.com/ArjunBasandrai/medvise)
+- 🔭 I’m currently working on [Elixir Chess Engine](https://github.com/ArjunBasandrai/elixir-chess-engine)
 - 🚀 I’m currently exploring MLOps
 - 🗻 I love birding and travel, and I blog about them at [Birding with Arjun](https://birdingwitharjun.com)
 
