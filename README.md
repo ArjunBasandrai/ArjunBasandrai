@@ -5,7 +5,7 @@
 
 ## About me 
 
-- 🔭 I’m currently working on [Elixir Chess Engine](https://github.com/ArjunBasandrai/elixir-chess-engine)
+- 🔭 I’m currently working on [Survival Analysis on the TCGA-PAAD dataset](https://github.com/ArjunBasandrai/tcga-paad-survival-analysis)
 - 🚀 I’m currently exploring Cyber Security
 - 🗻 I love birding and travel, and I blog about them at [Birding with Arjun](https://birdingwitharjun.com)
 
