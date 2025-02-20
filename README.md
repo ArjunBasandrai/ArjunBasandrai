@@ -5,7 +5,7 @@
 
 ## About me 
 
-- 🔭 I’m currently working on [Survival Analysis on the TCGA-PAAD dataset](https://github.com/ArjunBasandrai/tcga-paad-survival-analysis)
+- 🔭 I’m currently working on [Survival Analysis on the TCGA-GBM dataset](https://github.com/ArjunBasandrai/tcga-gbm-survival-analysis)
 - 🚀 I’m currently exploring Cyber Security
 - 🗻 I love birding and travel, and I blog about them at [Birding with Arjun](https://birdingwitharjun.com)
 
