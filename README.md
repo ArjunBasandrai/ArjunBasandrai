@@ -11,7 +11,7 @@
 
 ## My Github stats
 
-![My github stats]([https://github-readme-stats.vercel.app/api/?username=ArjunBasandrai&layout=compact&theme=catppuccin_mocha](https://githubcard.com/ArjunBasandrai.svg?d=_kDuXCnS))
+![GitHub Card](https://githubcard.com/ArjunBasandrai.svg?d=DdxLtn1a)
 
 ## My Tech Stack
 
